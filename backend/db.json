@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Victor Calidor",
+      "idade": "21",
+      "estadoCivil": "Casado",
+      "cpf": "123.456.789-11",
+      "cidade": "Curitiba",
+      "estado": "Paraná"
+    },
+    {
+      "name": "Arthur Luz",
+      "idade": "22",
+      "estadoCivil": "Solteiro",
+      "cpf": "000.000.000-01",
+      "cidade": "Rio de Janeiro",
+      "estado": "Rio de Janeiro",
+      "id": 3
+    }
+  ]
+}

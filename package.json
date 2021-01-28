@@ -1,0 +1,19 @@
+{
+  "name": "crud-softwrap",
+  "version": "1.0.0",
+  "description": "Teste de habilidades - Processo seletivo Softwrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipepugas/crud-SoftWrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipepugas/crud-SoftWrap/issues"
+  },
+  "homepage": "https://github.com/felipepugas/crud-SoftWrap#readme"
+}
