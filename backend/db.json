@@ -1,15 +1,6 @@
 {
   "users": [
     {
-      "id": 2,
-      "name": "Victor Calidor",
-      "idade": "21",
-      "estadoCivil": "Casado",
-      "cpf": "123.456.789-11",
-      "cidade": "Curitiba",
-      "estado": "Paraná"
-    },
-    {
       "name": "Arthur Luz",
       "idade": "22",
       "estadoCivil": "Solteiro",
