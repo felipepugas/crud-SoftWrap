@@ -11,5 +11,9 @@ Teste de habilidades - Processo seletivo Softwrap
    </a>
  </p>   
 
-<h1>💻 Sobre o projeto: <h1>
+<h1>Sobre o projeto 💻: <h1>
   <h2> Esse foi um teste de habilidades proposto pela SoftWrap para realizar o processo seletivo. <h2>
+
+<h1> Começando 🏁 <h1>
+  <p> Resolvi começar o teste pelo JSON server para que, quando fizesse o Front-end, tivesse uma resposta e confirmar se estava executando as funcionalidades.<p>
+ 
