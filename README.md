@@ -2,12 +2,12 @@
 Teste de habilidades - Processo seletivo Softwrap
 
 <p align="center">
-  <a href="https://media.giphy.com/media/wWCHN3UpLME7YJCN8b/giphy.gif">
+  <a href="https://media.giphy.com/media/VwbbmjT8AMcqa3WPGm/giphy.gif">
     <img
       align="center"
-      height="200"
-      widht="300"
-      src="https://media.giphy.com/media/wWCHN3UpLME7YJCN8b/giphy.gif"
+      height="300"
+      widht="400"
+      src="https://media.giphy.com/media/VwbbmjT8AMcqa3WPGm/giphy.gif"
     />
    </a>
  </p>   
