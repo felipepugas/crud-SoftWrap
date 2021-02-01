@@ -6,7 +6,7 @@ Teste de habilidades - Processo seletivo Softwrap
     <img
       align="center"
       height="300"
-      widht="350"
+      widht="300"
       src="https://media.giphy.com/media/VwbbmjT8AMcqa3WPGm/giphy.gif"
     />
    </a>
