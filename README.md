@@ -40,4 +40,4 @@ Resolvi começar o teste pelo JSON server para que, quando fizesse o Front-end, 
   * A parte do back-end ficou imcompleta.
 
 ## Conclusões: 
-Consegui realizar a parte do Front-end com relativa facilidade. Porém, na realização do backend, no qual não tinha pouco contato até então, tive dificuldades e não consegui entregar o projeto completo.
+Consegui realizar a parte do Front-end com relativa facilidade. Porém, na realização do backend, no qual tinha pouco contato até então, tive dificuldades e não consegui entregar o projeto completo.
